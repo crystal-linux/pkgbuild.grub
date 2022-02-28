@@ -1,4 +1,4 @@
-# Maintainer: Matt C <mdc[at]bucknell[dot]edu>
+# Maintainer: echo -n 'bWF0dEBnZXRjcnlzdC5hbA==' | base64 --decode
 # Contributor : Christian Hesse <mail@eworm.de>
 # Contributor : Ronald van Haren <ronald.archlinux.org>
 # Contributor: Tobias Powalowski <tpowa@archlinux.org>
