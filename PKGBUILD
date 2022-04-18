@@ -73,8 +73,8 @@ sha256sums=('SKIP'
             'SKIP'
             '5dee6628c48eef79812bb9e86ee772068d85e7fcebbd2b2b8d1e19d24eda9dab'
             '8488aec30a93e8fe66c23ef8c23aefda39c38389530e9e73ba3fbcc8315d244d'
-            'c17bf255a41103f6b71a1710afc7e9addaebc578bcf51a48845e227b2f651682'
-            '98b23d41e223bdc0a6e20bdcb3aa77e642f29b64081b1fd2f575314172fc89df')
+            '3a6dad997819dc6a7906f36b64869f915295fb4cfce43e207a51cf620fa8215a'
+            '079ddad671d173d481edb6e425269315fbabd94e1f2f0bceee6c8e21bc3faa38')
 
 _backports=(
 	# fs/xfs: Fix unreadable filesystem with v4 superblock
